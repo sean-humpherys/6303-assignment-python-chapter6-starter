@@ -9,7 +9,9 @@ The instructions for this assignment can be found at
 Open a terminal in VS Code from Terminal Menu, New Terminal. Type one of the following commands. 
 ```
   python app.py
+  python wages.py
 ```
+If on a Mac, type "python3" instead of "python"
 
 ## Useful GIT Commands:  
 Use the terminal or command line to issue git commands. 
