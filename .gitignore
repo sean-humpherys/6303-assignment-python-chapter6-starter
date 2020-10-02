@@ -1,2 +1,4 @@
 *answer.py
 .vscode/*
+*answer/
+__pycache__/
