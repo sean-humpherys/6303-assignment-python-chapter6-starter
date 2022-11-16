@@ -10,5 +10,4 @@ from timeit import timeit
 print("\nChapter 6.2 Handling Exceptions")
 print("\nTo test the erorrs, enter correct and bad values for age('z', -1, etc.)")
 # Run "python app.py" or "python3 app.py" in the terminal to allow for user input
-
 # Start coding here...
